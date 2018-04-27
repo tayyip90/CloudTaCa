@@ -1,5 +1,0 @@
-applications:
- - name: keen-kalam
-   memory: 128M
-   host: keen-kalam
-   buildpack: staticfile_buildpack
